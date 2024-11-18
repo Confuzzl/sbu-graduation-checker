@@ -1,0 +1,3461 @@
+{
+    "AMS 102": {
+        "dep": "AMS",
+        "number": 102,
+        "name": "Elements of Statistics",
+        "credits": 3,
+        "sbcs": [
+            "QPS"
+        ]
+    },
+    "AMS 103": {
+        "dep": "AMS",
+        "number": 103,
+        "name": "Applied Mathematics in Modern Technology",
+        "credits": 3,
+        "sbcs": [
+            "QPS",
+            "TECH"
+        ]
+    },
+    "AMS 104": {
+        "dep": "AMS",
+        "number": 104,
+        "name": "Spreadsheet Technology and Applications",
+        "credits": 3,
+        "sbcs": [
+            "QPS",
+            "TECH"
+        ]
+    },
+    "AMS 110": {
+        "dep": "AMS",
+        "number": 110,
+        "name": "Probability and Statistics in the Life Sciences",
+        "credits": 3,
+        "sbcs": [
+            "QPS"
+        ]
+    },
+    "AMS 151": {
+        "dep": "AMS",
+        "number": 151,
+        "name": "Applied Calculus I",
+        "credits": 3,
+        "sbcs": [
+            "QPS"
+        ]
+    },
+    "AMS 161": {
+        "dep": "AMS",
+        "number": 161,
+        "name": "Applied Calculus II",
+        "credits": 3,
+        "sbcs": [
+            "QPS"
+        ]
+    },
+    "AMS 210": {
+        "dep": "AMS",
+        "number": 210,
+        "name": "Applied Linear Algebra",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "AMS 261": {
+        "dep": "AMS",
+        "number": 261,
+        "name": "Applied Calculus III",
+        "credits": 4,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "AMS 300": {
+        "dep": "AMS",
+        "number": 300,
+        "name": "Writing in Applied Mathematics",
+        "credits": 1,
+        "sbcs": [
+            "SPK",
+            "WRTD"
+        ]
+    },
+    "AMS 301": {
+        "dep": "AMS",
+        "number": 301,
+        "name": "Finite Mathematical Structures",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "AMS 303": {
+        "dep": "AMS",
+        "number": 303,
+        "name": "Graph Theory",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 310": {
+        "dep": "AMS",
+        "number": 310,
+        "name": "Survey of Probability and Statistics",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "AMS 311": {
+        "dep": "AMS",
+        "number": 311,
+        "name": "Probability Theory",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 315": {
+        "dep": "AMS",
+        "number": 315,
+        "name": "Data Analysis",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "ESI"
+        ]
+    },
+    "AMS 316": {
+        "dep": "AMS",
+        "number": 316,
+        "name": "Introduction to Time Series Analysis",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "AMS 317": {
+        "dep": "AMS",
+        "number": 317,
+        "name": "Introduction to Linear Regression Analysis",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 318": {
+        "dep": "AMS",
+        "number": 318,
+        "name": "Financial Mathematics",
+        "credits": 3,
+        "sbcs": [
+            "WRTD"
+        ]
+    },
+    "AMS 320": {
+        "dep": "AMS",
+        "number": 320,
+        "name": "Introduction to Quantitative Finance",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 325": {
+        "dep": "AMS",
+        "number": 325,
+        "name": "Computing and Programming Fundamentals in Applied Mathematics and Statistics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 326": {
+        "dep": "AMS",
+        "number": 326,
+        "name": "Numerical Analysis",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 332": {
+        "dep": "AMS",
+        "number": 332,
+        "name": "Computational Modeling of Physiological Systems",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 333": {
+        "dep": "AMS",
+        "number": 333,
+        "name": "Mathematical Biology",
+        "credits": 3,
+        "sbcs": [
+            "EXP+",
+            "WRTD"
+        ]
+    },
+    "AMS 335": {
+        "dep": "AMS",
+        "number": 335,
+        "name": "Game Theory",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "AMS 341": {
+        "dep": "AMS",
+        "number": 341,
+        "name": "Operations Research I: Deterministic Models",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "AMS 342": {
+        "dep": "AMS",
+        "number": 342,
+        "name": "Operations Research II: Stochastic Models",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "AMS 345": {
+        "dep": "AMS",
+        "number": 345,
+        "name": "Computational Geometry",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 351": {
+        "dep": "AMS",
+        "number": 351,
+        "name": "Applied Algebra",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 361": {
+        "dep": "AMS",
+        "number": 361,
+        "name": "Applied Calculus IV: Differential Equations",
+        "credits": 4,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "AMS 380": {
+        "dep": "AMS",
+        "number": 380,
+        "name": "Data Mining",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 394": {
+        "dep": "AMS",
+        "number": 394,
+        "name": "Statistical Laboratory",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "ESI",
+            "EXP+"
+        ]
+    },
+    "AMS 410": {
+        "dep": "AMS",
+        "number": 410,
+        "name": "Actuarial Mathematics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 412": {
+        "dep": "AMS",
+        "number": 412,
+        "name": "Mathematical Statistics",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "ESI",
+            "EXP+"
+        ]
+    },
+    "AMS 420": {
+        "dep": "AMS",
+        "number": 420,
+        "name": "Investment Science Foundations",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 441": {
+        "dep": "AMS",
+        "number": 441,
+        "name": "Business Enterprise",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AMS 458": {
+        "dep": "AMS",
+        "number": 458,
+        "name": "Speak Effectively Before an Audience",
+        "credits": 0,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "AMS 459": {
+        "dep": "AMS",
+        "number": 459,
+        "name": "Write Effectively in Applied Mathematics",
+        "credits": 0,
+        "sbcs": [
+            "WRTD"
+        ]
+    },
+    "AMS 475": {
+        "dep": "AMS",
+        "number": 475,
+        "name": "Undergraduate Teaching Practicum",
+        "credits": 3,
+        "sbcs": [
+            "EXP+",
+            "SPK"
+        ]
+    },
+    "AMS 476": {
+        "dep": "AMS",
+        "number": 476,
+        "name": "Undergraduate Teaching Practicum",
+        "credits": 3,
+        "sbcs": [
+            "EXP+",
+            "SPK"
+        ]
+    },
+    "AMS 487": {
+        "dep": "AMS",
+        "number": 487,
+        "name": "Research in Applied Mathematics",
+        "credits": null,
+        "sbcs": [
+            "EXP+",
+            "WRTD"
+        ]
+    },
+    "AMS 492": {
+        "dep": "AMS",
+        "number": 492,
+        "name": "Topics in Applied Mathematics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 101": {
+        "dep": "CSE",
+        "number": 101,
+        "name": "Computer Science Principles",
+        "credits": 4,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 102": {
+        "dep": "CSE",
+        "number": 102,
+        "name": "Introduction to Web Design and Programming",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 110": {
+        "dep": "CSE",
+        "number": 110,
+        "name": "Introduction to Computer Science",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 113": {
+        "dep": "CSE",
+        "number": 113,
+        "name": "Foundations of Computer Science I",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 114": {
+        "dep": "CSE",
+        "number": 114,
+        "name": "Introduction to Object-Oriented Programming",
+        "credits": 4,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 130": {
+        "dep": "CSE",
+        "number": 130,
+        "name": "Introduction to Programming in C",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 150": {
+        "dep": "CSE",
+        "number": 150,
+        "name": "Foundations of Computer Science: Honors",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 160": {
+        "dep": "CSE",
+        "number": 160,
+        "name": "Computer Science A: Honors",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 161": {
+        "dep": "CSE",
+        "number": 161,
+        "name": "Laboratory for Computer Science A: Honors",
+        "credits": 1,
+        "sbcs": []
+    },
+    "CSE 190": {
+        "dep": "CSE",
+        "number": 190,
+        "name": "Special Topics in Practice and Applications of Computer Science",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 191": {
+        "dep": "CSE",
+        "number": 191,
+        "name": "Special Topics in Practice and Applications for Computer Science",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 192": {
+        "dep": "CSE",
+        "number": 192,
+        "name": "Special Topics in Practice and Applications for Computer Science",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "CSE 214": {
+        "dep": "CSE",
+        "number": 214,
+        "name": "Data Structures",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 215": {
+        "dep": "CSE",
+        "number": 215,
+        "name": "Foundations of Computer Science",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 216": {
+        "dep": "CSE",
+        "number": 216,
+        "name": "Programming Abstractions",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 220": {
+        "dep": "CSE",
+        "number": 220,
+        "name": "Systems Fundamentals I",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 230": {
+        "dep": "CSE",
+        "number": 230,
+        "name": "Intermediate Programming in C and C++",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 260": {
+        "dep": "CSE",
+        "number": 260,
+        "name": "Computer Science B: Honors",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 261": {
+        "dep": "CSE",
+        "number": 261,
+        "name": "Laboratory for Computer Science B: Honors",
+        "credits": 1,
+        "sbcs": []
+    },
+    "CSE 300": {
+        "dep": "CSE",
+        "number": 300,
+        "name": "Technical Communications",
+        "credits": 3,
+        "sbcs": [
+            "SPK",
+            "WRTD"
+        ]
+    },
+    "CSE 301": {
+        "dep": "CSE",
+        "number": 301,
+        "name": "History of Computing",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "CSE 303": {
+        "dep": "CSE",
+        "number": 303,
+        "name": "Introduction to the Theory of Computation",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 304": {
+        "dep": "CSE",
+        "number": 304,
+        "name": "Compiler Design",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 305": {
+        "dep": "CSE",
+        "number": 305,
+        "name": "Principles of Database Systems",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "EXP+",
+            "SBS+",
+            "STEM+"
+        ]
+    },
+    "CSE 306": {
+        "dep": "CSE",
+        "number": 306,
+        "name": "Operating Systems",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "EXP+",
+            "SBS+",
+            "STEM+"
+        ]
+    },
+    "CSE 307": {
+        "dep": "CSE",
+        "number": 307,
+        "name": "Principles of Programming Languages",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 310": {
+        "dep": "CSE",
+        "number": 310,
+        "name": "Computer Networks",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 311": {
+        "dep": "CSE",
+        "number": 311,
+        "name": "Systems Administration",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 312": {
+        "dep": "CSE",
+        "number": 312,
+        "name": "Social, Legal, and Ethical Issues in Computing",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "ESI",
+            "STAS"
+        ]
+    },
+    "CSE 316": {
+        "dep": "CSE",
+        "number": 316,
+        "name": "Fundamentals of Software Development",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "EXP+",
+            "SBS+",
+            "STEM+"
+        ]
+    },
+    "CSE 320": {
+        "dep": "CSE",
+        "number": 320,
+        "name": "Systems Fundamentals II",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 323": {
+        "dep": "CSE",
+        "number": 323,
+        "name": "Human-Computer Interaction",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 325": {
+        "dep": "CSE",
+        "number": 325,
+        "name": "Computers and Sculpture",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 327": {
+        "dep": "CSE",
+        "number": 327,
+        "name": "Fundamentals of Computer Vision",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 328": {
+        "dep": "CSE",
+        "number": 328,
+        "name": "Fundamentals of Computer Graphics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 331": {
+        "dep": "CSE",
+        "number": 331,
+        "name": "Computer Security Fundamentals",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 332": {
+        "dep": "CSE",
+        "number": 332,
+        "name": "Introduction to Visualization",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 333": {
+        "dep": "CSE",
+        "number": 333,
+        "name": "User Interface Development",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 334": {
+        "dep": "CSE",
+        "number": 334,
+        "name": "Introduction to Multimedia Systems",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 336": {
+        "dep": "CSE",
+        "number": 336,
+        "name": "Internet Programming",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 337": {
+        "dep": "CSE",
+        "number": 337,
+        "name": "Scripting Languages",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 350": {
+        "dep": "CSE",
+        "number": 350,
+        "name": "Theory of Computation: Honors",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 351": {
+        "dep": "CSE",
+        "number": 351,
+        "name": "Introduction to Data Science",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 352": {
+        "dep": "CSE",
+        "number": 352,
+        "name": "Artificial Intelligence",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 353": {
+        "dep": "CSE",
+        "number": 353,
+        "name": "Machine Learning",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 354": {
+        "dep": "CSE",
+        "number": 354,
+        "name": "Natural Language Processing",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 355": {
+        "dep": "CSE",
+        "number": 355,
+        "name": "Computational Geometry",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 356": {
+        "dep": "CSE",
+        "number": 356,
+        "name": "Cloud Computing",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 357": {
+        "dep": "CSE",
+        "number": 357,
+        "name": "Statistical Methods for Data Science",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 360": {
+        "dep": "CSE",
+        "number": 360,
+        "name": "Software Security",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 361": {
+        "dep": "CSE",
+        "number": 361,
+        "name": "Web Security",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 362": {
+        "dep": "CSE",
+        "number": 362,
+        "name": "Mobile Security",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 363": {
+        "dep": "CSE",
+        "number": 363,
+        "name": "Offensive Security",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 364": {
+        "dep": "CSE",
+        "number": 364,
+        "name": "Advanced Multimedia Techniques",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 366": {
+        "dep": "CSE",
+        "number": 366,
+        "name": "Introduction to Virtual Reality",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 370": {
+        "dep": "CSE",
+        "number": 370,
+        "name": "Wireless and Mobile Networking",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 371": {
+        "dep": "CSE",
+        "number": 371,
+        "name": "Logic",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 373": {
+        "dep": "CSE",
+        "number": 373,
+        "name": "Analysis of Algorithms",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 376": {
+        "dep": "CSE",
+        "number": 376,
+        "name": "Advanced Systems Programming in UNIX/C",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 377": {
+        "dep": "CSE",
+        "number": 377,
+        "name": "Introduction to Medical Imaging",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 378": {
+        "dep": "CSE",
+        "number": 378,
+        "name": "Introduction to Robotics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 380": {
+        "dep": "CSE",
+        "number": 380,
+        "name": "2D Game Programming",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 381": {
+        "dep": "CSE",
+        "number": 381,
+        "name": "3D Game Programming",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 385": {
+        "dep": "CSE",
+        "number": 385,
+        "name": "Analysis of Algorithms: Honors",
+        "credits": 4,
+        "sbcs": []
+    },
+    "CSE 390": {
+        "dep": "CSE",
+        "number": 390,
+        "name": "Special Topics in Computer Science",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 416": {
+        "dep": "CSE",
+        "number": 416,
+        "name": "Software Engineering",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "EXP+",
+            "SBS+",
+            "STEM+"
+        ]
+    },
+    "CSE 475": {
+        "dep": "CSE",
+        "number": 475,
+        "name": "Undergraduate Teaching Practicum",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "CSE 487": {
+        "dep": "CSE",
+        "number": 487,
+        "name": "Research in Computer Science",
+        "credits": null,
+        "sbcs": []
+    },
+    "CSE 488": {
+        "dep": "CSE",
+        "number": 488,
+        "name": "Internship in Computer Science",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "CSE 495": {
+        "dep": "CSE",
+        "number": 495,
+        "name": "Senior Honors Research Project I",
+        "credits": 3,
+        "sbcs": []
+    },
+    "CSE 496": {
+        "dep": "CSE",
+        "number": 496,
+        "name": "Senior Honors Research Project II",
+        "credits": 3,
+        "sbcs": []
+    },
+    "IAE 101": {
+        "dep": "IAE",
+        "number": 101,
+        "name": "Digital Intelligence",
+        "credits": 3,
+        "sbcs": [
+            "ARTS",
+            "TECH"
+        ]
+    },
+    "LIN 101": {
+        "dep": "LIN",
+        "number": 101,
+        "name": "Human Language",
+        "credits": 3,
+        "sbcs": [
+            "SBS",
+            "SNW"
+        ]
+    },
+    "LIN 110": {
+        "dep": "LIN",
+        "number": 110,
+        "name": "The Anatomy of English Words",
+        "credits": 3,
+        "sbcs": [
+            "SBS"
+        ]
+    },
+    "LIN 120": {
+        "dep": "LIN",
+        "number": 120,
+        "name": "Language and Technology",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "LIN 200": {
+        "dep": "LIN",
+        "number": 200,
+        "name": "Language in the United States",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "SBS",
+            "USA"
+        ]
+    },
+    "LIN 201": {
+        "dep": "LIN",
+        "number": 201,
+        "name": "Phonetics",
+        "credits": 4,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "LIN 202": {
+        "dep": "LIN",
+        "number": 202,
+        "name": "Introduction to Phonetics and Phonology",
+        "credits": 3,
+        "sbcs": [
+            "SBS"
+        ]
+    },
+    "LIN 230": {
+        "dep": "LIN",
+        "number": 230,
+        "name": "Languages of the World",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "GLO"
+        ]
+    },
+    "LIN 235": {
+        "dep": "LIN",
+        "number": 235,
+        "name": "Signed Languages & Deaf Communities",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "SBS",
+            "USA"
+        ]
+    },
+    "LIN 240": {
+        "dep": "LIN",
+        "number": 240,
+        "name": "Spanish in the U.S.",
+        "credits": 3,
+        "sbcs": [
+            "SBS",
+            "USA"
+        ]
+    },
+    "LIN 250": {
+        "dep": "LIN",
+        "number": 250,
+        "name": "Languages and Cultures of Asian Americans",
+        "credits": 3,
+        "sbcs": [
+            "SBS",
+            "USA"
+        ]
+    },
+    "LIN 260": {
+        "dep": "LIN",
+        "number": 260,
+        "name": "Language and Mind",
+        "credits": 3,
+        "sbcs": [
+            "SBS",
+            "SNW"
+        ]
+    },
+    "LIN 270": {
+        "dep": "LIN",
+        "number": 270,
+        "name": "Language and Politics",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS"
+        ]
+    },
+    "LIN 280": {
+        "dep": "LIN",
+        "number": 280,
+        "name": "Language in Social Media",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "LIN 301": {
+        "dep": "LIN",
+        "number": 301,
+        "name": "Phonology",
+        "credits": 4,
+        "sbcs": []
+    },
+    "LIN 307": {
+        "dep": "LIN",
+        "number": 307,
+        "name": "Sociolinguistics",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "SBS+"
+        ]
+    },
+    "LIN 308": {
+        "dep": "LIN",
+        "number": 308,
+        "name": "Language Variation and Change",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 311": {
+        "dep": "LIN",
+        "number": 311,
+        "name": "Syntax",
+        "credits": 4,
+        "sbcs": []
+    },
+    "LIN 320": {
+        "dep": "LIN",
+        "number": 320,
+        "name": "English Grammar",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 321": {
+        "dep": "LIN",
+        "number": 321,
+        "name": "Morphology and Word Formation",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 324": {
+        "dep": "LIN",
+        "number": 324,
+        "name": "Romance Linguistics",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "LIN 330": {
+        "dep": "LIN",
+        "number": 330,
+        "name": "Language Acquisition",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "SBS+",
+            "STEM+"
+        ]
+    },
+    "LIN 335": {
+        "dep": "LIN",
+        "number": 335,
+        "name": "Computational Linguistics",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "LIN 340": {
+        "dep": "LIN",
+        "number": 340,
+        "name": "Historical Linguistics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 344": {
+        "dep": "LIN",
+        "number": 344,
+        "name": "Literacy Development",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 345": {
+        "dep": "LIN",
+        "number": 345,
+        "name": "Writing Systems of the World",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS+"
+        ]
+    },
+    "LIN 346": {
+        "dep": "LIN",
+        "number": 346,
+        "name": "Language and Meaning",
+        "credits": 4,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "LIN 347": {
+        "dep": "LIN",
+        "number": 347,
+        "name": "Pragmatics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 350": {
+        "dep": "LIN",
+        "number": 350,
+        "name": "Experimental Phonetics",
+        "credits": 3,
+        "sbcs": [
+            "SBS+",
+            "SNW"
+        ]
+    },
+    "LIN 355": {
+        "dep": "LIN",
+        "number": 355,
+        "name": "Language and Life in a Selected Area of the World",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "GLO",
+            "SBS+"
+        ]
+    },
+    "LIN 356": {
+        "dep": "LIN",
+        "number": 356,
+        "name": "Topics in Language and Life in Europe",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS+"
+        ]
+    },
+    "LIN 361": {
+        "dep": "LIN",
+        "number": 361,
+        "name": "Mathematical Methods in Linguistics",
+        "credits": 3,
+        "sbcs": [
+            "QPS"
+        ]
+    },
+    "LIN 370": {
+        "dep": "LIN",
+        "number": 370,
+        "name": "Intercultural Communication",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "LIN 375": {
+        "dep": "LIN",
+        "number": 375,
+        "name": "TESOL Pedagogy: Theory and Practice",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 378": {
+        "dep": "LIN",
+        "number": 378,
+        "name": "Content-Based Language and Literacy Development",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "EXP+",
+            "SPK"
+        ]
+    },
+    "LIN 380": {
+        "dep": "LIN",
+        "number": 380,
+        "name": "Anatomy and Physiology of Speech and Hearing",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "LIN 381": {
+        "dep": "LIN",
+        "number": 381,
+        "name": "Language and Speech Disorders",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "LIN 382": {
+        "dep": "LIN",
+        "number": 382,
+        "name": "Audiology",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "LIN 405": {
+        "dep": "LIN",
+        "number": 405,
+        "name": "Writing in Linguistics",
+        "credits": 2,
+        "sbcs": [
+            "ESI",
+            "WRTD"
+        ]
+    },
+    "LIN 425": {
+        "dep": "LIN",
+        "number": 425,
+        "name": "Special Topics in Linguistics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 426": {
+        "dep": "LIN",
+        "number": 426,
+        "name": "Special Topics in Linguistics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 427": {
+        "dep": "LIN",
+        "number": 427,
+        "name": "Special Topics in Linguistics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "LIN 431": {
+        "dep": "LIN",
+        "number": 431,
+        "name": "The Structure of an Uncommonly Taught Language",
+        "credits": 4,
+        "sbcs": [
+            "CER",
+            "SBS+",
+            "SPK"
+        ]
+    },
+    "LIN 444": {
+        "dep": "LIN",
+        "number": 444,
+        "name": "Experiential Learning",
+        "credits": 0,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "LIN 447": {
+        "dep": "LIN",
+        "number": 447,
+        "name": "Directed Readings in Linguistics",
+        "credits": null,
+        "sbcs": []
+    },
+    "LIN 449": {
+        "dep": "LIN",
+        "number": 449,
+        "name": "Field Experience, Grades N-12",
+        "credits": 1,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "LIN 450": {
+        "dep": "LIN",
+        "number": 450,
+        "name": "Field Experience, Grades N-12",
+        "credits": 1,
+        "sbcs": [
+            "CER",
+            "EXP+",
+            "SPK"
+        ]
+    },
+    "LIN 451": {
+        "dep": "LIN",
+        "number": 451,
+        "name": "Supervised Teaching -- English as a Second Language: Primary Grades N-6",
+        "credits": 6,
+        "sbcs": [
+            "CER",
+            "EXP+",
+            "SPK"
+        ]
+    },
+    "LIN 452": {
+        "dep": "LIN",
+        "number": 452,
+        "name": "Supervised Student Teaching in English as a Second Language: Secondary Grades 7-12",
+        "credits": 6,
+        "sbcs": [
+            "CER",
+            "EXP+",
+            "SPK"
+        ]
+    },
+    "LIN 454": {
+        "dep": "LIN",
+        "number": 454,
+        "name": "Managing Instruction, Assessment, and Resources",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "EXP+",
+            "SPK"
+        ]
+    },
+    "LIN 475": {
+        "dep": "LIN",
+        "number": 475,
+        "name": "Undergraduate Teaching Practicum I",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "LIN 476": {
+        "dep": "LIN",
+        "number": 476,
+        "name": "Undergraduate Teaching Practicum II",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "LIN 487": {
+        "dep": "LIN",
+        "number": 487,
+        "name": "Directed Research in Linguistics",
+        "credits": null,
+        "sbcs": []
+    },
+    "LIN 488": {
+        "dep": "LIN",
+        "number": 488,
+        "name": "Internship",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "LIN 495": {
+        "dep": "LIN",
+        "number": 495,
+        "name": "Senior Honors Project in Linguistics",
+        "credits": null,
+        "sbcs": []
+    },
+    "LIN 496": {
+        "dep": "LIN",
+        "number": 496,
+        "name": "Senior Honors Project in Linguistics",
+        "credits": null,
+        "sbcs": []
+    },
+    "PHI 100": {
+        "dep": "PHI",
+        "number": 100,
+        "name": "Concepts of the Person (II)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HUM"
+        ]
+    },
+    "PHI 101": {
+        "dep": "PHI",
+        "number": 101,
+        "name": "Historical Introduction to Western Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "HUM"
+        ]
+    },
+    "PHI 102": {
+        "dep": "PHI",
+        "number": 102,
+        "name": "Introduction to Philosophical Psychology",
+        "credits": 3,
+        "sbcs": [
+            "HUM",
+            "SBS"
+        ]
+    },
+    "PHI 103": {
+        "dep": "PHI",
+        "number": 103,
+        "name": "Philosophic Problems (II)",
+        "credits": 3,
+        "sbcs": [
+            "HUM",
+            "SBS"
+        ]
+    },
+    "PHI 104": {
+        "dep": "PHI",
+        "number": 104,
+        "name": "Moral Reasoning (II)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HUM"
+        ]
+    },
+    "PHI 105": {
+        "dep": "PHI",
+        "number": 105,
+        "name": "Politics and Society (II)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HUM"
+        ]
+    },
+    "PHI 108": {
+        "dep": "PHI",
+        "number": 108,
+        "name": "Logical and Critical Reasoning (II)",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "HUM"
+        ]
+    },
+    "PHI 109": {
+        "dep": "PHI",
+        "number": 109,
+        "name": "Philosophy and Literature in Social Context (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HUM"
+        ]
+    },
+    "PHI 110": {
+        "dep": "PHI",
+        "number": 110,
+        "name": "Arts and Ideas (III)",
+        "credits": 3,
+        "sbcs": [
+            "HUM"
+        ]
+    },
+    "PHI 111": {
+        "dep": "PHI",
+        "number": 111,
+        "name": "Introduction to Eastern Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "HUM"
+        ]
+    },
+    "PHI 112": {
+        "dep": "PHI",
+        "number": 112,
+        "name": "Technology and Modern Life",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHI 113": {
+        "dep": "PHI",
+        "number": 113,
+        "name": "Philosophical Engineering",
+        "credits": 3,
+        "sbcs": [
+            "HUM",
+            "TECH"
+        ]
+    },
+    "PHI 116": {
+        "dep": "PHI",
+        "number": 116,
+        "name": "Philosophy of America's Founding",
+        "credits": 3,
+        "sbcs": [
+            "HUM",
+            "USA"
+        ]
+    },
+    "PHI 200": {
+        "dep": "PHI",
+        "number": 200,
+        "name": "Introduction to Ancient Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "HUM"
+        ]
+    },
+    "PHI 201": {
+        "dep": "PHI",
+        "number": 201,
+        "name": "Demons to Think With",
+        "credits": 3,
+        "sbcs": [
+            "HUM",
+            "TECH"
+        ]
+    },
+    "PHI 204": {
+        "dep": "PHI",
+        "number": 204,
+        "name": "Ethics in Artificial Intelligence and Data",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "TECH"
+        ]
+    },
+    "PHI 206": {
+        "dep": "PHI",
+        "number": 206,
+        "name": "Introduction to Modern Philosophy (17th and 18th century) (I)",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "HUM"
+        ]
+    },
+    "PHI 220": {
+        "dep": "PHI",
+        "number": 220,
+        "name": "Introduction to Symbolic Logic (II)",
+        "credits": 3,
+        "sbcs": [
+            "QPS"
+        ]
+    },
+    "PHI 247": {
+        "dep": "PHI",
+        "number": 247,
+        "name": "Existentialism (I)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HUM"
+        ]
+    },
+    "PHI 264": {
+        "dep": "PHI",
+        "number": 264,
+        "name": "Philosophy and the Arts (III)",
+        "credits": 3,
+        "sbcs": [
+            "ARTS",
+            "HUM"
+        ]
+    },
+    "PHI 268": {
+        "dep": "PHI",
+        "number": 268,
+        "name": "Science, Technology, and Society",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHI 277": {
+        "dep": "PHI",
+        "number": 277,
+        "name": "Political Philosophy (II)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HUM"
+        ]
+    },
+    "PHI 284": {
+        "dep": "PHI",
+        "number": 284,
+        "name": "Introduction to Feminist Theory (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HUM"
+        ]
+    },
+    "PHI 300": {
+        "dep": "PHI",
+        "number": 300,
+        "name": "Ancient Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 304": {
+        "dep": "PHI",
+        "number": 304,
+        "name": "Medieval Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 306": {
+        "dep": "PHI",
+        "number": 306,
+        "name": "Modern Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 308": {
+        "dep": "PHI",
+        "number": 308,
+        "name": "19th-Century Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 309": {
+        "dep": "PHI",
+        "number": 309,
+        "name": "20th-Century Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 310": {
+        "dep": "PHI",
+        "number": 310,
+        "name": "American Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+",
+            "USA"
+        ]
+    },
+    "PHI 312": {
+        "dep": "PHI",
+        "number": 312,
+        "name": "Phenomenology",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "HFA+",
+            "SBS+"
+        ]
+    },
+    "PHI 320": {
+        "dep": "PHI",
+        "number": 320,
+        "name": "Metaphysics (II)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 325": {
+        "dep": "PHI",
+        "number": 325,
+        "name": "Contemporary Philosophies of Language (II)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 330": {
+        "dep": "PHI",
+        "number": 330,
+        "name": "Topics in Advanced Symbolic Logic (II)",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "PHI 332": {
+        "dep": "PHI",
+        "number": 332,
+        "name": "Theories of Knowledge (II)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 335": {
+        "dep": "PHI",
+        "number": 335,
+        "name": "Philosophy of Time (II)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 336": {
+        "dep": "PHI",
+        "number": 336,
+        "name": "Philosophy of Religion (II)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 340": {
+        "dep": "PHI",
+        "number": 340,
+        "name": "Philosophical Traditions of East Asia (I)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "GLO",
+            "HFA+"
+        ]
+    },
+    "PHI 344": {
+        "dep": "PHI",
+        "number": 344,
+        "name": "Japanese Thought and Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "GLO",
+            "HFA+"
+        ]
+    },
+    "PHI 347": {
+        "dep": "PHI",
+        "number": 347,
+        "name": "Hermeneutics and Deconstruction (II)",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "HFA+"
+        ]
+    },
+    "PHI 353": {
+        "dep": "PHI",
+        "number": 353,
+        "name": "Philosophy of Mind (II)",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "HFA+"
+        ]
+    },
+    "PHI 362": {
+        "dep": "PHI",
+        "number": 362,
+        "name": "Philosophy of Biology",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHI 363": {
+        "dep": "PHI",
+        "number": 363,
+        "name": "Philosophy of the Social Sciences (III)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+",
+            "SBS+"
+        ]
+    },
+    "PHI 364": {
+        "dep": "PHI",
+        "number": 364,
+        "name": "Philosophy of Technology (III)",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHI 365": {
+        "dep": "PHI",
+        "number": 365,
+        "name": "Philosophy and Computers (III)",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "PHI 366": {
+        "dep": "PHI",
+        "number": 366,
+        "name": "Philosophy of the Environment (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 367": {
+        "dep": "PHI",
+        "number": 367,
+        "name": "Philosophy of War and Peace (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 368": {
+        "dep": "PHI",
+        "number": 368,
+        "name": "Philosophy of Science (III)",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHI 369": {
+        "dep": "PHI",
+        "number": 369,
+        "name": "Philosophy of Mathematics (III)",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "PHI 370": {
+        "dep": "PHI",
+        "number": 370,
+        "name": "Philosophical Psychology (III)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+",
+            "SBS+"
+        ]
+    },
+    "PHI 371": {
+        "dep": "PHI",
+        "number": 371,
+        "name": "Literature and Justice (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 372": {
+        "dep": "PHI",
+        "number": 372,
+        "name": "Ethical Inquiry (II)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 373": {
+        "dep": "PHI",
+        "number": 373,
+        "name": "Philosophy in Relation to Other Disciplines (III)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 374": {
+        "dep": "PHI",
+        "number": 374,
+        "name": "Bioethics",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 375": {
+        "dep": "PHI",
+        "number": 375,
+        "name": "Philosophy of Law (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 376": {
+        "dep": "PHI",
+        "number": 376,
+        "name": "Philosophy and Medicine (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 377": {
+        "dep": "PHI",
+        "number": 377,
+        "name": "Contemporary Political Philosophy (II)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 378": {
+        "dep": "PHI",
+        "number": 378,
+        "name": "Philosophical Topics in Asian American History (III)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 379": {
+        "dep": "PHI",
+        "number": 379,
+        "name": "Philosophy of Race (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+",
+            "USA"
+        ]
+    },
+    "PHI 380": {
+        "dep": "PHI",
+        "number": 380,
+        "name": "Literature and Philosophy (III)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 381": {
+        "dep": "PHI",
+        "number": 381,
+        "name": "Aesthetics (II)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 382": {
+        "dep": "PHI",
+        "number": 382,
+        "name": "The Quantum Moment: Quantum Mechanics in Philosophy, Culture, and Life (III)",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHI 384": {
+        "dep": "PHI",
+        "number": 384,
+        "name": "Advanced Topics in Feminist Philosophy (III)",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "PHI 390": {
+        "dep": "PHI",
+        "number": 390,
+        "name": "Topics in Philosophy (either I, II, or III)",
+        "credits": null,
+        "sbcs": []
+    },
+    "PHI 395": {
+        "dep": "PHI",
+        "number": 395,
+        "name": "Junior Seminar",
+        "credits": 3,
+        "sbcs": [
+            "ESI"
+        ]
+    },
+    "PHI 400": {
+        "dep": "PHI",
+        "number": 400,
+        "name": "Advanced Seminar on Ancient Western Philosophy",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHI 401": {
+        "dep": "PHI",
+        "number": 401,
+        "name": "Individual Systems of the Great Philosophers (I)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 402": {
+        "dep": "PHI",
+        "number": 402,
+        "name": "Analysis of Philosophic Texts (I)",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 406": {
+        "dep": "PHI",
+        "number": 406,
+        "name": "Advanced Seminar on Modern Western Philosophy",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHI 420": {
+        "dep": "PHI",
+        "number": 420,
+        "name": "Advanced Topics in Philosophy (either I, II, or III)",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHI 444": {
+        "dep": "PHI",
+        "number": 444,
+        "name": "Experiential Learning",
+        "credits": 0,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "PHI 458": {
+        "dep": "PHI",
+        "number": 458,
+        "name": "Speak Effectively Before an Audience",
+        "credits": 0,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "PHI 459": {
+        "dep": "PHI",
+        "number": 459,
+        "name": "Write Effectively in Philosophy",
+        "credits": 0,
+        "sbcs": [
+            "WRTD"
+        ]
+    },
+    "PHI 472": {
+        "dep": "PHI",
+        "number": 472,
+        "name": "Topics in Asian Philosophy (I)",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "HFA+"
+        ]
+    },
+    "PHI 473": {
+        "dep": "PHI",
+        "number": 473,
+        "name": "Orientalism",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "PHI 475": {
+        "dep": "PHI",
+        "number": 475,
+        "name": "Undergraduate Teaching Practicum I",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "PHI 476": {
+        "dep": "PHI",
+        "number": 476,
+        "name": "Undergraduate Teaching Practicum II",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "PHI 487": {
+        "dep": "PHI",
+        "number": 487,
+        "name": "Readings and Research in Philosophy (II)",
+        "credits": null,
+        "sbcs": []
+    },
+    "PHI 489": {
+        "dep": "PHI",
+        "number": 489,
+        "name": "Readings and Research in the History of Philosophy (I)",
+        "credits": null,
+        "sbcs": []
+    },
+    "PHI 490": {
+        "dep": "PHI",
+        "number": 490,
+        "name": "Readings and Research in Philosophical Investigations of Other Disciplines (III)",
+        "credits": null,
+        "sbcs": []
+    },
+    "PHI 495": {
+        "dep": "PHI",
+        "number": 495,
+        "name": "Philosophy Honors Thesis",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 112": {
+        "dep": "PHY",
+        "number": 112,
+        "name": "Light, Color, and Vision",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 113": {
+        "dep": "PHY",
+        "number": 113,
+        "name": "Physics of Sports",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 115": {
+        "dep": "PHY",
+        "number": 115,
+        "name": "Physics of Sports Laboratory",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 119": {
+        "dep": "PHY",
+        "number": 119,
+        "name": "Physics for Environmental Studies",
+        "credits": 4,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 121": {
+        "dep": "PHY",
+        "number": 121,
+        "name": "Physics for the Life Sciences I",
+        "credits": 4,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 122": {
+        "dep": "PHY",
+        "number": 122,
+        "name": "Physics for the Life Sciences II",
+        "credits": 4,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 125": {
+        "dep": "PHY",
+        "number": 125,
+        "name": "Classical Physics A",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 126": {
+        "dep": "PHY",
+        "number": 126,
+        "name": "Classical Physics B",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 127": {
+        "dep": "PHY",
+        "number": 127,
+        "name": "Classical Physics C",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 131": {
+        "dep": "PHY",
+        "number": 131,
+        "name": "Classical Physics I",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 132": {
+        "dep": "PHY",
+        "number": 132,
+        "name": "Classical Physics II",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 133": {
+        "dep": "PHY",
+        "number": 133,
+        "name": "Classical Physics Laboratory I",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 134": {
+        "dep": "PHY",
+        "number": 134,
+        "name": "Classical Physics Laboratory II",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 141": {
+        "dep": "PHY",
+        "number": 141,
+        "name": "Classical Physics I: Honors",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 142": {
+        "dep": "PHY",
+        "number": 142,
+        "name": "Classical Physics II: Honors",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "PHY 153": {
+        "dep": "PHY",
+        "number": 153,
+        "name": "Data Analysis for Physics and Astronomy with Python",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "PHY 191": {
+        "dep": "PHY",
+        "number": 191,
+        "name": "Transitional Study",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 192": {
+        "dep": "PHY",
+        "number": 192,
+        "name": "Transitional Study",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 231": {
+        "dep": "PHY",
+        "number": 231,
+        "name": "Physics for Future Presidents",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHY 237": {
+        "dep": "PHY",
+        "number": 237,
+        "name": "World Climate and Atmosphere",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHY 251": {
+        "dep": "PHY",
+        "number": 251,
+        "name": "Modern Physics",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "PHY 252": {
+        "dep": "PHY",
+        "number": 252,
+        "name": "Modern Physics Laboratory",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 277": {
+        "dep": "PHY",
+        "number": 277,
+        "name": "Computation for Physics and Astronomy",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "PHY 287": {
+        "dep": "PHY",
+        "number": 287,
+        "name": "Introduction to Research",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "PHY 291": {
+        "dep": "PHY",
+        "number": 291,
+        "name": "Transitional Study",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 300": {
+        "dep": "PHY",
+        "number": 300,
+        "name": "Waves and Optics",
+        "credits": 4,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "PHY 301": {
+        "dep": "PHY",
+        "number": 301,
+        "name": "Electromagnetic Theory I",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 302": {
+        "dep": "PHY",
+        "number": 302,
+        "name": "Electromagnetic Theory II",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 303": {
+        "dep": "PHY",
+        "number": 303,
+        "name": "Mechanics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 306": {
+        "dep": "PHY",
+        "number": 306,
+        "name": "Thermodynamics, Kinetic Theory, and Statistical Mechanics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 307": {
+        "dep": "PHY",
+        "number": 307,
+        "name": "Physical and Mathematical Foundations of Quantum Mechanics",
+        "credits": 4,
+        "sbcs": []
+    },
+    "PHY 308": {
+        "dep": "PHY",
+        "number": 308,
+        "name": "Quantum Physics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 311": {
+        "dep": "PHY",
+        "number": 311,
+        "name": "Connections in Science",
+        "credits": 1,
+        "sbcs": []
+    },
+    "PHY 313": {
+        "dep": "PHY",
+        "number": 313,
+        "name": "Mystery of Matter",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHY 335": {
+        "dep": "PHY",
+        "number": 335,
+        "name": "Electronics and Instrumentation Laboratory",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "PHY 382": {
+        "dep": "PHY",
+        "number": 382,
+        "name": "The Quantum Moment: Quantum Mechanics in Philosophy, Culture, and Life (III)",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "PHY 390": {
+        "dep": "PHY",
+        "number": 390,
+        "name": "Special Topics in Physics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 405": {
+        "dep": "PHY",
+        "number": 405,
+        "name": "Advanced Quantum Physics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 408": {
+        "dep": "PHY",
+        "number": 408,
+        "name": "Relativity",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 420": {
+        "dep": "PHY",
+        "number": 420,
+        "name": "Introduction to Accelerator Science and Technology",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 431": {
+        "dep": "PHY",
+        "number": 431,
+        "name": "Nuclear and Particle Physics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 444": {
+        "dep": "PHY",
+        "number": 444,
+        "name": "Experiential Learning",
+        "credits": 0,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "PHY 445": {
+        "dep": "PHY",
+        "number": 445,
+        "name": "Senior Laboratory",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "SPK"
+        ]
+    },
+    "PHY 447": {
+        "dep": "PHY",
+        "number": 447,
+        "name": "Tutorial in Advanced Topics",
+        "credits": null,
+        "sbcs": []
+    },
+    "PHY 451": {
+        "dep": "PHY",
+        "number": 451,
+        "name": "Quantum Electronics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 452": {
+        "dep": "PHY",
+        "number": 452,
+        "name": "Atomic Physics and Lasers",
+        "credits": 3,
+        "sbcs": [
+            "TECH"
+        ]
+    },
+    "PHY 458": {
+        "dep": "PHY",
+        "number": 458,
+        "name": "Speak Effectively Before an Audience",
+        "credits": 0,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "PHY 459": {
+        "dep": "PHY",
+        "number": 459,
+        "name": "Write Effectively in Physics",
+        "credits": 0,
+        "sbcs": [
+            "WRTD"
+        ]
+    },
+    "PHY 472": {
+        "dep": "PHY",
+        "number": 472,
+        "name": "Solid-State Physics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "PHY 475": {
+        "dep": "PHY",
+        "number": 475,
+        "name": "Undergraduate Teaching Practicum",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "PHY 487": {
+        "dep": "PHY",
+        "number": 487,
+        "name": "Research",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 101": {
+        "dep": "POL",
+        "number": 101,
+        "name": "World Politics",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS"
+        ]
+    },
+    "POL 102": {
+        "dep": "POL",
+        "number": 102,
+        "name": "Introduction to American Government",
+        "credits": 3,
+        "sbcs": [
+            "SBS",
+            "USA"
+        ]
+    },
+    "POL 103": {
+        "dep": "POL",
+        "number": 103,
+        "name": "Introduction to Comparative Politics",
+        "credits": 3,
+        "sbcs": [
+            "SBS"
+        ]
+    },
+    "POL 201": {
+        "dep": "POL",
+        "number": 201,
+        "name": "Introduction to Statistical Methods in Political Science",
+        "credits": 3,
+        "sbcs": [
+            "QPS"
+        ]
+    },
+    "POL 214": {
+        "dep": "POL",
+        "number": 214,
+        "name": "Modern Latin America",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS"
+        ]
+    },
+    "POL 216": {
+        "dep": "POL",
+        "number": 216,
+        "name": "History of U.S.-Latin American Relations",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS"
+        ]
+    },
+    "POL 270": {
+        "dep": "POL",
+        "number": 270,
+        "name": "Experiments in Political Science",
+        "credits": 3,
+        "sbcs": [
+            "SBS"
+        ]
+    },
+    "POL 287": {
+        "dep": "POL",
+        "number": 287,
+        "name": "Introductory Research in Political Science",
+        "credits": null,
+        "sbcs": [
+            "ESI"
+        ]
+    },
+    "POL 305": {
+        "dep": "POL",
+        "number": 305,
+        "name": "Government and Politics of the United Kingdom",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 308": {
+        "dep": "POL",
+        "number": 308,
+        "name": "Women Islam and Political Change in Africa",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS+"
+        ]
+    },
+    "POL 309": {
+        "dep": "POL",
+        "number": 309,
+        "name": "Politics in the European Union",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 310": {
+        "dep": "POL",
+        "number": 310,
+        "name": "Immigration and Refugee Politics",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "SBS+"
+        ]
+    },
+    "POL 311": {
+        "dep": "POL",
+        "number": 311,
+        "name": "Introduction to International Law",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 313": {
+        "dep": "POL",
+        "number": 313,
+        "name": "Problems of International Relations",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 317": {
+        "dep": "POL",
+        "number": 317,
+        "name": "American Election Campaigns",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 318": {
+        "dep": "POL",
+        "number": 318,
+        "name": "Voters and Elections",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 319": {
+        "dep": "POL",
+        "number": 319,
+        "name": "Business Law",
+        "credits": 3,
+        "sbcs": []
+    },
+    "POL 320": {
+        "dep": "POL",
+        "number": 320,
+        "name": "Constitutional Law and Politics: United States",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 322": {
+        "dep": "POL",
+        "number": 322,
+        "name": "The Presidency in the American Political System",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 323": {
+        "dep": "POL",
+        "number": 323,
+        "name": "U.S. Congress",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 324": {
+        "dep": "POL",
+        "number": 324,
+        "name": "American Political Parties and Pressure Groups",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 325": {
+        "dep": "POL",
+        "number": 325,
+        "name": "Civil Liberties and Civil Rights",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 327": {
+        "dep": "POL",
+        "number": 327,
+        "name": "Urban Politics",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 328": {
+        "dep": "POL",
+        "number": 328,
+        "name": "Criminal Law",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 330": {
+        "dep": "POL",
+        "number": 330,
+        "name": "Gender Issues in the Law",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "SBS+"
+        ]
+    },
+    "POL 332": {
+        "dep": "POL",
+        "number": 332,
+        "name": "Politics of Criminal Due Process",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 333": {
+        "dep": "POL",
+        "number": 333,
+        "name": "Environmental Law",
+        "credits": 3,
+        "sbcs": []
+    },
+    "POL 334": {
+        "dep": "POL",
+        "number": 334,
+        "name": "Modern Terrorism",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 336": {
+        "dep": "POL",
+        "number": 336,
+        "name": "U.S. Foreign Policy",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 337": {
+        "dep": "POL",
+        "number": 337,
+        "name": "The Politics of Africa",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 338": {
+        "dep": "POL",
+        "number": 338,
+        "name": "Contemporary India: History, Politics, and Diplomacy",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS+"
+        ]
+    },
+    "POL 339": {
+        "dep": "POL",
+        "number": 339,
+        "name": "Contemporary China: History, Politics, and Diplomacy",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS+"
+        ]
+    },
+    "POL 344": {
+        "dep": "POL",
+        "number": 344,
+        "name": "American Political Ideology and Public Opinion",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 346": {
+        "dep": "POL",
+        "number": 346,
+        "name": "Political Psychology",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 347": {
+        "dep": "POL",
+        "number": 347,
+        "name": "Women and Politics",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "SBS+"
+        ]
+    },
+    "POL 348": {
+        "dep": "POL",
+        "number": 348,
+        "name": "Political Beliefs and Judgments",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 349": {
+        "dep": "POL",
+        "number": 349,
+        "name": "Social Psychology and Law",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 350": {
+        "dep": "POL",
+        "number": 350,
+        "name": "Contemporary European Political Theory",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 351": {
+        "dep": "POL",
+        "number": 351,
+        "name": "Social Surveys in Contemporary Society",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 352": {
+        "dep": "POL",
+        "number": 352,
+        "name": "Current Political Events",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 353": {
+        "dep": "POL",
+        "number": 353,
+        "name": "Contemporary Race Relations in American Politics",
+        "credits": 3,
+        "sbcs": [
+            "DIV",
+            "SBS+"
+        ]
+    },
+    "POL 359": {
+        "dep": "POL",
+        "number": 359,
+        "name": "Public Policy Analysis",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 365": {
+        "dep": "POL",
+        "number": 365,
+        "name": "Economy and Democracy",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 366": {
+        "dep": "POL",
+        "number": 366,
+        "name": "Press & the Presidency",
+        "credits": 3,
+        "sbcs": []
+    },
+    "POL 367": {
+        "dep": "POL",
+        "number": 367,
+        "name": "Mass Media in American Politics",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 368": {
+        "dep": "POL",
+        "number": 368,
+        "name": "Social Networks and Politics",
+        "credits": 3,
+        "sbcs": [
+            "SBS+",
+            "WRTD"
+        ]
+    },
+    "POL 369": {
+        "dep": "POL",
+        "number": 369,
+        "name": "Introduction to Political Informatics",
+        "credits": 3,
+        "sbcs": [
+            "SBS+",
+            "TECH"
+        ]
+    },
+    "POL 371": {
+        "dep": "POL",
+        "number": 371,
+        "name": "Politics of Climate Change",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "POL 373": {
+        "dep": "POL",
+        "number": 373,
+        "name": "The Biology of Politics",
+        "credits": 3,
+        "sbcs": [
+            "SBS+",
+            "SNW"
+        ]
+    },
+    "POL 374": {
+        "dep": "POL",
+        "number": 374,
+        "name": "Global Issues in the United Nations",
+        "credits": 3,
+        "sbcs": [
+            "SBS+"
+        ]
+    },
+    "POL 375": {
+        "dep": "POL",
+        "number": 375,
+        "name": "The Political Animal",
+        "credits": 3,
+        "sbcs": [
+            "SBS+",
+            "SNW"
+        ]
+    },
+    "POL 380": {
+        "dep": "POL",
+        "number": 380,
+        "name": "Government and Politics of the Middle East",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "SBS+"
+        ]
+    },
+    "POL 390": {
+        "dep": "POL",
+        "number": 390,
+        "name": "Topics in Political Science",
+        "credits": 3,
+        "sbcs": []
+    },
+    "POL 401": {
+        "dep": "POL",
+        "number": 401,
+        "name": "Seminar in Advanced Topics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "POL 444": {
+        "dep": "POL",
+        "number": 444,
+        "name": "Experiential Learning",
+        "credits": 0,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 447": {
+        "dep": "POL",
+        "number": 447,
+        "name": "Directed Readings in Political Science",
+        "credits": null,
+        "sbcs": []
+    },
+    "POL 458": {
+        "dep": "POL",
+        "number": 458,
+        "name": "Speak Effectively Before an Audience",
+        "credits": 0,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "POL 459": {
+        "dep": "POL",
+        "number": 459,
+        "name": "Write Effectively in Political Science",
+        "credits": 0,
+        "sbcs": [
+            "WRTD"
+        ]
+    },
+    "POL 475": {
+        "dep": "POL",
+        "number": 475,
+        "name": "Undergraduate Teaching Practicum I",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 476": {
+        "dep": "POL",
+        "number": 476,
+        "name": "Undergraduate Teaching Practicum II",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 477": {
+        "dep": "POL",
+        "number": 477,
+        "name": "Qualitative & Mixed Methods",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "ESI",
+            "SBS+"
+        ]
+    },
+    "POL 487": {
+        "dep": "POL",
+        "number": 487,
+        "name": "Directed Research",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 488": {
+        "dep": "POL",
+        "number": 488,
+        "name": "Internship",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 489": {
+        "dep": "POL",
+        "number": 489,
+        "name": "Washington or Albany Internship",
+        "credits": 12,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 490": {
+        "dep": "POL",
+        "number": 490,
+        "name": "Washington or Albany Seminar",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "POL 495": {
+        "dep": "POL",
+        "number": 495,
+        "name": "Senior Honors Project in Political Science",
+        "credits": 3,
+        "sbcs": []
+    },
+    "POL 496": {
+        "dep": "POL",
+        "number": 496,
+        "name": "Senior Honors Project in Political Science",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "WRTD"
+        ]
+    },
+    "SBU 101": {
+        "dep": "SBU",
+        "number": 101,
+        "name": "Introduction to Stony Brook",
+        "credits": 1,
+        "sbcs": []
+    },
+    "SBU 102": {
+        "dep": "SBU",
+        "number": 102,
+        "name": "Undergraduate College Seminar",
+        "credits": 1,
+        "sbcs": []
+    },
+    "SBU 275": {
+        "dep": "SBU",
+        "number": 275,
+        "name": "Undergraduate College Fellows Seminar",
+        "credits": 1,
+        "sbcs": []
+    },
+    "SBU 276": {
+        "dep": "SBU",
+        "number": 276,
+        "name": "Undergraduate College Fellows Practicum",
+        "credits": 1,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "SBU 475": {
+        "dep": "SBU",
+        "number": 475,
+        "name": "Undergraduate College Teaching Practicum",
+        "credits": 1,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "SBU 488": {
+        "dep": "SBU",
+        "number": 488,
+        "name": "Undergraduate College Internship",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "WRT 101": {
+        "dep": "WRT",
+        "number": 101,
+        "name": "Introductory Writing Workshop",
+        "credits": 3,
+        "sbcs": [
+            "WRT"
+        ]
+    },
+    "WRT 102": {
+        "dep": "WRT",
+        "number": 102,
+        "name": "Intermediate Writing Workshop",
+        "credits": 3,
+        "sbcs": [
+            "WRT"
+        ]
+    },
+    "WRT 200": {
+        "dep": "WRT",
+        "number": 200,
+        "name": "The Rhetoric of Grammar and Style",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "HUM"
+        ]
+    },
+    "WRT 201": {
+        "dep": "WRT",
+        "number": 201,
+        "name": "Principles of Professional Writing",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "SPK"
+        ]
+    },
+    "WRT 300": {
+        "dep": "WRT",
+        "number": 300,
+        "name": "Theories and Methods in Rhetoric and Writing",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "HFA+"
+        ]
+    },
+    "WRT 301": {
+        "dep": "WRT",
+        "number": 301,
+        "name": "Writing in the Disciplines: Special Topics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "WRT 302": {
+        "dep": "WRT",
+        "number": 302,
+        "name": "Critical Writing Seminar: Special Topics",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "WRT 303": {
+        "dep": "WRT",
+        "number": 303,
+        "name": "The Personal Essay",
+        "credits": 3,
+        "sbcs": []
+    },
+    "WRT 304": {
+        "dep": "WRT",
+        "number": 304,
+        "name": "Writing for Your Profession",
+        "credits": 3,
+        "sbcs": []
+    },
+    "WRT 305": {
+        "dep": "WRT",
+        "number": 305,
+        "name": "Writing for the Health Professions",
+        "credits": 3,
+        "sbcs": [
+            "ESI"
+        ]
+    },
+    "WRT 306": {
+        "dep": "WRT",
+        "number": 306,
+        "name": "Tutor Training",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "WRT 307": {
+        "dep": "WRT",
+        "number": 307,
+        "name": "Rhetoric of Science, Technology, and Medicine",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "HUM"
+        ]
+    },
+    "WRT 319": {
+        "dep": "WRT",
+        "number": 319,
+        "name": "Nonprofit Business Writing",
+        "credits": 3,
+        "sbcs": [
+            "EXP+",
+            "HUM",
+            "SPK"
+        ]
+    },
+    "WRT 320": {
+        "dep": "WRT",
+        "number": 320,
+        "name": "Rhetoric and Culture",
+        "credits": 3,
+        "sbcs": []
+    },
+    "WRT 321": {
+        "dep": "WRT",
+        "number": 321,
+        "name": "Writing for Social Justice",
+        "credits": 3,
+        "sbcs": []
+    },
+    "WRT 375": {
+        "dep": "WRT",
+        "number": 375,
+        "name": "Technical Communication",
+        "credits": 3,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "WRT 376": {
+        "dep": "WRT",
+        "number": 376,
+        "name": "Digital Rhetorics",
+        "credits": 3,
+        "sbcs": []
+    },
+    "WRT 377": {
+        "dep": "WRT",
+        "number": 377,
+        "name": "Special Topics in Digital Writing",
+        "credits": 3,
+        "sbcs": [
+            "HFA+",
+            "TECH"
+        ]
+    },
+    "WRT 380": {
+        "dep": "WRT",
+        "number": 380,
+        "name": "Advanced Research Writing: Theories, Methods, Practices",
+        "credits": 3,
+        "sbcs": [
+            "ESI"
+        ]
+    },
+    "WRT 381": {
+        "dep": "WRT",
+        "number": 381,
+        "name": "Advanced Analytic and Argumentative Writing",
+        "credits": 3,
+        "sbcs": [
+            "ESI"
+        ]
+    },
+    "WRT 382": {
+        "dep": "WRT",
+        "number": 382,
+        "name": "Grant Writing",
+        "credits": 3,
+        "sbcs": [
+            "ESI"
+        ]
+    },
+    "WRT 392": {
+        "dep": "WRT",
+        "number": 392,
+        "name": "Theories and Methods of Mentoring Writers",
+        "credits": 3,
+        "sbcs": []
+    },
+    "WRT 444": {
+        "dep": "WRT",
+        "number": 444,
+        "name": "Experiential Learning",
+        "credits": 0,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "WRT 458": {
+        "dep": "WRT",
+        "number": 458,
+        "name": "Speak Effectively Before an Audience",
+        "credits": 0,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "WRT 459": {
+        "dep": "WRT",
+        "number": 459,
+        "name": "Write Effectively in a Discipline",
+        "credits": 0,
+        "sbcs": [
+            "WRTD"
+        ]
+    },
+    "WRT 487": {
+        "dep": "WRT",
+        "number": 487,
+        "name": "Independent Project",
+        "credits": null,
+        "sbcs": []
+    },
+    "WRT 488": {
+        "dep": "WRT",
+        "number": 488,
+        "name": "Internship",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "WRT 490": {
+        "dep": "WRT",
+        "number": 490,
+        "name": "Rhetoric and Writing Senior Project",
+        "credits": 3,
+        "sbcs": [
+            "EXP+",
+            "WRTD"
+        ]
+    }
+}

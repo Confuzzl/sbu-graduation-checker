@@ -1,0 +1,8 @@
+https://www.stonybrook.edu/sb/bulletin/current/search/
+[... document.getElementsByName("abbreviation")[0].children].map(e => e.value)
+
+FOR SBCS   
+Array.from(document.getElementById("bysbc").getElementsByTagName("option")).map(e => e.value).slice(1)
+
+curl --data "type=abbrevation&abbreviation=<AAA>&search=" https://www.stonybrook.edu/sb/bulletin/current/search/byabbreviation/index.php
+
