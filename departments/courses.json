@@ -343,6 +343,411 @@
         "credits": 3,
         "sbcs": []
     },
+    "AST 100": {
+        "dep": "AST",
+        "number": 100,
+        "name": "Astronomy Today",
+        "credits": 1,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "AST 101": {
+        "dep": "AST",
+        "number": 101,
+        "name": "Introduction to Astronomy",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "AST 105": {
+        "dep": "AST",
+        "number": 105,
+        "name": "Introduction to the Solar System",
+        "credits": 3,
+        "sbcs": [
+            "SNW"
+        ]
+    },
+    "AST 112": {
+        "dep": "AST",
+        "number": 112,
+        "name": "Astronomy Laboratory",
+        "credits": 1,
+        "sbcs": []
+    },
+    "AST 200": {
+        "dep": "AST",
+        "number": 200,
+        "name": "Current Astronomical Research at Stony Brook",
+        "credits": 1,
+        "sbcs": []
+    },
+    "AST 203": {
+        "dep": "AST",
+        "number": 203,
+        "name": "Astronomy",
+        "credits": 4,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "AST 205": {
+        "dep": "AST",
+        "number": 205,
+        "name": "Introduction to Planetary Sciences",
+        "credits": 3,
+        "sbcs": [
+            "STEM+"
+        ]
+    },
+    "AST 248": {
+        "dep": "AST",
+        "number": 248,
+        "name": "The Search for Life in the Universe",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "AST 287": {
+        "dep": "AST",
+        "number": 287,
+        "name": "Introductory Research in Astronomy",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "AST 301": {
+        "dep": "AST",
+        "number": 301,
+        "name": "Collisions in the Solar System",
+        "credits": 3,
+        "sbcs": [
+            "STAS"
+        ]
+    },
+    "AST 341": {
+        "dep": "AST",
+        "number": 341,
+        "name": "Stars and Radiation",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AST 345": {
+        "dep": "AST",
+        "number": 345,
+        "name": "Undergraduate Research in Astronomy",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "AST 346": {
+        "dep": "AST",
+        "number": 346,
+        "name": "Galaxies",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AST 347": {
+        "dep": "AST",
+        "number": 347,
+        "name": "Cosmology",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AST 389": {
+        "dep": "AST",
+        "number": 389,
+        "name": "Science Fiction",
+        "credits": 3,
+        "sbcs": [
+            "CER",
+            "STAS"
+        ]
+    },
+    "AST 390": {
+        "dep": "AST",
+        "number": 390,
+        "name": "Special Topics in Astrophysics and Cosmology",
+        "credits": 3,
+        "sbcs": []
+    },
+    "AST 443": {
+        "dep": "AST",
+        "number": 443,
+        "name": "Observational Techniques in Astronomy",
+        "credits": 4,
+        "sbcs": [
+            "ESI",
+            "SPK"
+        ]
+    },
+    "AST 444": {
+        "dep": "AST",
+        "number": 444,
+        "name": "Experiential Learning",
+        "credits": 0,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "AST 447": {
+        "dep": "AST",
+        "number": 447,
+        "name": "Senior Tutorial in Astronomy",
+        "credits": null,
+        "sbcs": []
+    },
+    "AST 458": {
+        "dep": "AST",
+        "number": 458,
+        "name": "Speak Effectively Before an Audience",
+        "credits": 0,
+        "sbcs": [
+            "SPK"
+        ]
+    },
+    "AST 459": {
+        "dep": "AST",
+        "number": 459,
+        "name": "Write Effectively in Astronomy/Planetary Sciences",
+        "credits": 0,
+        "sbcs": [
+            "WRTD"
+        ]
+    },
+    "AST 475": {
+        "dep": "AST",
+        "number": 475,
+        "name": "Teaching Practicum in Astronomy",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "AST 487": {
+        "dep": "AST",
+        "number": 487,
+        "name": "Senior Research in Astronomy",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "CHI 101": {
+        "dep": "CHI",
+        "number": 101,
+        "name": "Intensive Elementary Chinese",
+        "credits": 6,
+        "sbcs": [
+            "LANG"
+        ]
+    },
+    "CHI 111": {
+        "dep": "CHI",
+        "number": 111,
+        "name": "Elementary Chinese I",
+        "credits": 4,
+        "sbcs": [
+            "LANG"
+        ]
+    },
+    "CHI 112": {
+        "dep": "CHI",
+        "number": 112,
+        "name": "Elementary Chinese II",
+        "credits": 4,
+        "sbcs": [
+            "LANG"
+        ]
+    },
+    "CHI 120": {
+        "dep": "CHI",
+        "number": 120,
+        "name": "Elementary Chinese for Heritage Speakers",
+        "credits": 4,
+        "sbcs": [
+            "GLO",
+            "LANG"
+        ]
+    },
+    "CHI 201": {
+        "dep": "CHI",
+        "number": 201,
+        "name": "Intensive Intermediate Chinese",
+        "credits": 6,
+        "sbcs": [
+            "GLO",
+            "HUM",
+            "LANG"
+        ]
+    },
+    "CHI 211": {
+        "dep": "CHI",
+        "number": 211,
+        "name": "Intermediate Chinese I",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "LANG"
+        ]
+    },
+    "CHI 212": {
+        "dep": "CHI",
+        "number": 212,
+        "name": "Intermediate Chinese II",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "HUM",
+            "LANG"
+        ]
+    },
+    "CHI 220": {
+        "dep": "CHI",
+        "number": 220,
+        "name": "Intermediate Chinese for Heritage Speakers",
+        "credits": 3,
+        "sbcs": [
+            "GLO",
+            "HUM",
+            "LANG"
+        ]
+    },
+    "CHI 311": {
+        "dep": "CHI",
+        "number": 311,
+        "name": "Advanced Chinese I",
+        "credits": 3,
+        "sbcs": [
+            "HFA+",
+            "LANG"
+        ]
+    },
+    "CHI 312": {
+        "dep": "CHI",
+        "number": 312,
+        "name": "Advanced Chinese II",
+        "credits": 3,
+        "sbcs": [
+            "HFA+",
+            "LANG",
+            "SPK"
+        ]
+    },
+    "CHI 320": {
+        "dep": "CHI",
+        "number": 320,
+        "name": "Advanced Chinese for Heritage Speakers",
+        "credits": 3,
+        "sbcs": [
+            "HFA+",
+            "LANG"
+        ]
+    },
+    "CHI 410": {
+        "dep": "CHI",
+        "number": 410,
+        "name": "Business Chinese",
+        "credits": 3,
+        "sbcs": [
+            "SBS+",
+            "SPK"
+        ]
+    },
+    "CHI 411": {
+        "dep": "CHI",
+        "number": 411,
+        "name": "Readings in Journalistic Chinese",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "CHI 412": {
+        "dep": "CHI",
+        "number": 412,
+        "name": "Readings in Classical Chinese",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "CHI 421": {
+        "dep": "CHI",
+        "number": 421,
+        "name": "Chinese Poetry and Short Stories",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "CHI 422": {
+        "dep": "CHI",
+        "number": 422,
+        "name": "Chinese Lyric Prose and Plays",
+        "credits": 3,
+        "sbcs": [
+            "HFA+"
+        ]
+    },
+    "CHI 426": {
+        "dep": "CHI",
+        "number": 426,
+        "name": "Structure of Mandarin Chinese",
+        "credits": 3,
+        "sbcs": [
+            "ESI",
+            "SBS+"
+        ]
+    },
+    "CHI 444": {
+        "dep": "CHI",
+        "number": 444,
+        "name": "Experiential Learning",
+        "credits": 0,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "CHI 447": {
+        "dep": "CHI",
+        "number": 447,
+        "name": "Directed Readings in Chinese",
+        "credits": null,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "CHI 475": {
+        "dep": "CHI",
+        "number": 475,
+        "name": "Undergraduate Teaching Practicum I",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "CHI 476": {
+        "dep": "CHI",
+        "number": 476,
+        "name": "Undergraduate Teaching Practicum II",
+        "credits": 3,
+        "sbcs": [
+            "EXP+"
+        ]
+    },
+    "CHI 487": {
+        "dep": "CHI",
+        "number": 487,
+        "name": "Supervised Research in Chinese",
+        "credits": null,
+        "sbcs": []
+    },
     "CSE 101": {
         "dep": "CSE",
         "number": 101,

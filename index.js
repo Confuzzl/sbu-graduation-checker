@@ -9,7 +9,13 @@ import fs from "node:fs";
  * @property {string[]} sbcs
  */
 
-const NULL_COURSE = { dep: "", number: 0, name: "", credits: 0, sbcs: [] };
+const NULL_COURSE = {
+    dep: "",
+    number: 0,
+    name: "",
+    credits: 0,
+    sbcs: [],
+};
 
 /**@type {Object.<string,Course>} */
 const ALL_COURSES = JSON.parse(fs.readFileSync("departments/courses.json"));
@@ -18,20 +24,15 @@ const ALL_COURSES = JSON.parse(fs.readFileSync("departments/courses.json"));
  * @callback SimpleCourseFunction
  * @param {Course} course
  * @returns {boolean}
- */
-/**
+ *
  * @callback NameFunction
  * @returns {string}
- */
-/**
+ *
  * @typedef {Object} NameCourseFunction
  * @property {NameFunction} funcName
- */
-/**
+ *
  * @typedef {SimpleCourseFunction & NameCourseFunction} CourseFunction
- */
-
-/**
+ *
  * @typedef {CourseFunction[]} RequirementGroup
  * @property {string} groupName
  */
@@ -64,9 +65,18 @@ const and = (a, b) => {
 /**
  * @param {CourseFunction} a
  * @param {CourseFunction} b
+ * @param {...CourseFunction} more
  * @returns {CourseFunction}
  */
-const or = (a, b) => {
+const or = (a, b, ...more) => {
+    if (more.length === 1) {
+        return or(or(a, b), more[0]);
+    }
+    if (more.length > 1) {
+        const last = more.pop();
+        return or(or(a, b, last), ...more);
+    }
+
     let af = false;
     let bf = false;
     const out = /** @type {CourseFunction} */ (course) => {
@@ -74,7 +84,7 @@ const or = (a, b) => {
         if (b(course)) bf = true;
         return af || bf;
     };
-    out.funcName = () => `${a.funcName} (${af}) or ${b.funcName} (${bf})`;
+    out.funcName = () => `${a.funcName()} (${af}) or ${b.funcName()} (${bf})`;
     return out;
 };
 
@@ -83,7 +93,7 @@ const or = (a, b) => {
  * @param {CourseFunction} filter
  * @returns {CourseFunction}
  */
-const min_credit = (num, filter = any) => {
+const min_credit = (num, filter = any()) => {
     let counter = 0;
     const out =
         /** @type {CourseFunction} */
@@ -92,17 +102,13 @@ const min_credit = (num, filter = any) => {
             return counter >= num;
         };
     out.funcName = () =>
-        `Minimum credits: ${counter}/${num} for ${filter().funcName()}`;
+        `Minimum credits: ${counter}/${num} for ${filter.funcName()}`;
     return out;
 };
 
 /** @returns {CourseFunction} */
 const is_upper_division = () => {
-    let fulfilled = false;
-    const out = /** @type {CourseFunction} */ (course) => {
-        if (course.number >= 300) fulfilled = true;
-        return fulfilled;
-    };
+    const out = /** @type {CourseFunction} */ (course) => course.number >= 300;
     out.funcName = () => "upper division";
     return out;
 };
@@ -164,7 +170,54 @@ const n_out_of_list = (n, list) => {
         return counter >= n;
     };
     out.funcName = () =>
-        `${n} out of ${list.map((e) => e.funcName()).join(", ")}`;
+        `${n} out of ${list
+            .map((e) => `${e.funcName()} (${e(NULL_COURSE)})`)
+            .join(", ")}`;
+    return out;
+};
+
+/**
+ * @param {string} dep
+ * @param {number} lec
+ * @param {number} lab
+ */
+const lec_lab = (dep, lec, lab) =>
+    and(is_course(`${dep} ${lec}`), is_course(`${dep} ${lab}`));
+const natural_science = () => {
+    const out = and(
+        or(
+            lec_lab("BIO", 201, 204),
+            lec_lab("BIO", 202, 204),
+            lec_lab("BIO", 203, 204),
+            lec_lab("CHE", 131, 133),
+            lec_lab("CHE", 152, 154),
+            lec_lab("PHY", 126, 133),
+            lec_lab("PHY", 131, 133),
+            lec_lab("PHY", 141, 133)
+        ),
+        or(
+            is_course("AST 203"),
+            is_course("AST 205"),
+            is_course("CHE 132"),
+            is_course("CHE 321"),
+            is_course("CHE 322"),
+            is_course("CHE 331"),
+            is_course("CHE 332"),
+            is_course("GEO 102"),
+            is_course("GEO 103"),
+            is_course("GEO 112"),
+            is_course("GEO 113"),
+            is_course("GEO 122"),
+            is_course("PHY 125"),
+            is_course("PHY 127"),
+            is_course("PHY 132"),
+            is_course("PHY 134"),
+            is_course("PHY 142"),
+            is_course("PHY 251"),
+            is_course("PHY 252")
+        )
+    );
+    out.funcName = () => `natural science requirement`;
     return out;
 };
 
@@ -182,7 +235,7 @@ const REQUIREMENTS = [
     grouping("Credit Hour Requirement", min_credit(120)),
     grouping(
         "Upper-Division Credit Requirement",
-        min_credit(39, is_upper_division)
+        min_credit(39, is_upper_division())
     ),
     grouping(
         "Mandatory Freshman Courses",
@@ -248,45 +301,122 @@ const CSE_REQUIREMENTS = [
     grouping("Applied Calculus", is_course("AMS 151"), is_course("AMS 161")),
     grouping("Linear Algebra", or(is_course("MAT 211"), is_course("AMS 210"))),
     grouping("More Math", is_course("AMS 301"), is_course("AMS 310")),
+
     // natural science
+    grouping("Natural Science", natural_science()),
 
     grouping("Professional Ethics", is_course("CSE 312")),
     grouping("Upper-Division Writing Requirement", is_course("CSE 300")),
 ];
 
-const COURSE_NAME_LIST = [
+const COURSE_LIST = [
     [
-        ["AMS 210", "CSE 215", "PHI 108", "SBU 101", "IAE 101", "WRT 102"],
-        ["AMS 301", "AMS 310", "POL 102", " SBU 102", "CSE 214", "LIN 101"],
+        [
+            {
+                dep: "AMS",
+                number: 151,
+                name: "Math Placement Exam",
+                credits: 0,
+                sbcs: ["QPS"],
+            },
+            {
+                dep: "AMS",
+                number: 161,
+                name: "Math Placement Exam",
+                credits: 0,
+                sbcs: ["QPS"],
+            },
+            {
+                dep: "CSE",
+                number: 101,
+                name: "AP Computer Science Principles",
+                credits: 3,
+                sbcs: ["TECH"],
+            },
+            {
+                dep: "CSE",
+                number: 114,
+                name: "AP Computer Science Principles",
+                credits: 4,
+                sbcs: ["TECH"],
+            },
+            {
+                dep: "HIS",
+                number: 0,
+                name: "AP World History",
+                credits: 3,
+                sbcs: ["SBS", "GLO"],
+            },
+            {
+                dep: "MAT",
+                number: 131,
+                name: "AP Calculus AB",
+                credits: 4,
+                sbcs: ["QPS"],
+            },
+        ],
     ],
-    [[], []],
-    [[], []],
-    [[], []],
-];
-
-const COURSE_LIST = COURSE_NAME_LIST.map((year) =>
-    year.map((sem) => sem.map((name) => ALL_COURSES[name] ?? NULL_COURSE))
+].concat(
+    [
+        [
+            ["AMS 210", "CSE 215", "PHI 108", "SBU 101", "IAE 101", "WRT 102"],
+            ["AMS 301", "AMS 310", "POL 102", "SBU 102", "CSE 214", "LIN 101"],
+        ],
+        [
+            ["CHI 111", "LIN 230", "PHY 131", "PHY 133", "CSE 216"],
+            ["CHI 112", "AST 203", "CSE 220", "CSE 303", "CSE 310"],
+        ],
+        [
+            ["CSE 316", "CSE 320", "CSE 373", "CSE 416", "CSE 312", "CSE 300"],
+            [],
+        ],
+        [["CSE 380", "CSE 381", "CSE 328", "CSE 355"], []],
+    ].map((year) => year.map((sem) => sem.map((name) => ALL_COURSES[name])))
 );
 
-const ALL_REQUIREMENTS = [...REQUIREMENTS, ...CSE_REQUIREMENTS];
+const ALL_REQUIREMENTS = REQUIREMENTS.concat(CSE_REQUIREMENTS);
 
-console.log(JSON.stringify(COURSE_LIST, null, 2));
+for (const year of COURSE_LIST) {
+    for (const sem of year) {
+        for (const course of sem) {
+            for (const group of ALL_REQUIREMENTS) {
+                for (const pred of group) {
+                    pred(course);
+                }
+            }
+        }
+    }
+}
 
-// for (const year of COURSE_LIST) {
-//     for (const sem of year) {
-//         for (const course of sem) {
-//             for (const group of ALL_REQUIREMENTS) {
-//                 for (const pred of group) {
-//                     pred(course);
-//                 }
-//             }
-//         }
-//     }
-// }
-// for (const group of ALL_REQUIREMENTS) {
-//     console.log(group.groupName);
-//     for (const pred of group) {
-//         console.log(pred.funcName(), pred(NULL_COURSE));
-//     }
-//     console.log();
-// }
+for (const [y, year] of COURSE_LIST.entries()) {
+    if (y === 0) {
+        console.log(`WAIVED`);
+        for (const course of year[0]) {
+            console.log(
+                `\t${course.credits} ${course.dep} ${course.number} "${course.name}"`
+            );
+        }
+    } else {
+        console.log(`YEAR ${y}`);
+        for (const [s, sem] of year.entries()) {
+            const limit = y == 1 && s == 0 ? 17 : 19;
+            console.log(`\tSEM ${s + 1}`);
+            let cred = 0;
+            for (const course of sem) {
+                console.log(
+                    `\t\t${course.credits} ${course.dep} ${course.number} "${course.name}"`
+                );
+                cred += course.credits;
+            }
+            console.log(`\t${cred}/${limit}`);
+        }
+    }
+}
+
+for (const group of ALL_REQUIREMENTS) {
+    console.log(group.groupName);
+    for (const pred of group) {
+        console.log(pred.funcName(), pred(NULL_COURSE));
+    }
+    console.log();
+}
